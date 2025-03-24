@@ -12,3 +12,13 @@
 [https://www.learnenough.com/command-line-tutorial]
 [https://flashcards.github.io/command_line/introduction.html]
 
+### Day 1: March 23, Monday
+
+**Today's Progress**: Continuing with the odin project, feeling a lot more comfortable again with the command line. Raspberry pi tomorrow! I hope!
+
+**Thoughts** Consistency. Grit. It's all the practice of behaviour more than anything.
+
+**Link(s) to work**
+[https://www.theodinproject.com]
+
+
